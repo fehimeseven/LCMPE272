@@ -23,6 +23,8 @@ public class Surprise {
                                                 "Böyle cac›€a okul mu dayan›r...  "+"\n"+"Sayg›lar..." , "ÜZGÜNÜM", JOptionPane.INFORMATION_MESSAGE);    
         else if(n==1)
         	JOptionPane.showMessageDialog(null, "Peki öyle olsun...", " B‹R DAHAK‹ SEFERE ‹NﬁALLAH ",JOptionPane.ERROR_MESSAGE);
+
+//Hello GitHub
  
         
     }
